@@ -6,3 +6,5 @@ ghost-gobble-arcade-game/__pycache__/arcade_game_test.cpython-311-pytest-7.4.0.p
 ghost-gobble-arcade-game/__pycache__/arcade_game.cpython-311.pyc
 currency-exchange/__pycache__/exchange_test.cpython-311-pytest-7.4.0.pyc
 currency-exchange/__pycache__/exchange.cpython-311.pyc
+meltdown-mitigation/__pycache__/conditionals_test.cpython-311-pytest-7.4.0.pyc
+meltdown-mitigation/__pycache__/conditionals.cpython-311.pyc
