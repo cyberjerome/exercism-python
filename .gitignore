@@ -8,3 +8,5 @@ currency-exchange/__pycache__/exchange_test.cpython-311-pytest-7.4.0.pyc
 currency-exchange/__pycache__/exchange.cpython-311.pyc
 meltdown-mitigation/__pycache__/conditionals_test.cpython-311-pytest-7.4.0.pyc
 meltdown-mitigation/__pycache__/conditionals.cpython-311.pyc
+black-jack/__pycache__/black_jack_test.cpython-311-pytest-7.4.0.pyc
+black-jack/__pycache__/black_jack.cpython-311.pyc
