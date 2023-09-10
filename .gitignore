@@ -1,3 +1,4 @@
+.gitignore
 hello-world/__pycache__/hello_world.cpython-311.pyc
 hello_world_test.cpython-311-pytest-7.4.0.pyc
 guidos-gorgeous-lasagna/__pycache__/lasagna_test.cpython-311-pytest-7.4.0.pyc
@@ -10,3 +11,5 @@ meltdown-mitigation/__pycache__/conditionals_test.cpython-311-pytest-7.4.0.pyc
 meltdown-mitigation/__pycache__/conditionals.cpython-311.pyc
 black-jack/__pycache__/black_jack_test.cpython-311-pytest-7.4.0.pyc
 black-jack/__pycache__/black_jack.cpython-311.pyc
+little-sisters-vocab/__pycache__/strings_test.cpython-311-pytest-7.4.0.pyc
+little-sisters-vocab/__pycache__/strings.cpython-311.pyc
