@@ -16,3 +16,6 @@ little-sisters-vocab/__pycache__/strings.cpython-311.pyc
 little-sisters-essay/__pycache__/string_methods_test.cpython-311-pytest-7.4.0.pyc
 .gitignore
 little-sisters-essay/__pycache__/string_methods.cpython-311.pyc
+card-games/__pycache__/lists_test.cpython-311-pytest-7.4.0.pyc
+card-games/__pycache__/lists.cpython-311.pyc
+.gitignore
